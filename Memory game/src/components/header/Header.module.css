@@ -1,0 +1,9 @@
+.header {
+  font-family: "GetScwifty", sans-serif;
+  color: white;
+  background-color: black;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: auto 1.5rem;
+}
